@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MaxHeapTaskManager</string>
+    <string name="create_task">Create Task</string>
+    <string name="enter_task_description">Enter task description</string>
+    <string name="description">Description:</string>
+    <string name="enter_the_estimated_time_for_completion">Enter the estimated time for completion</string>
+    <string name="time">Time:</string>
+    <string name="enter_task_title">Enter task title</string>
+    <string name="title">Title:</string>
+    <string name="task_manager">Task Manager</string>
+    <string name="view_layout">View Layout</string>
+    <string-array name="task_options">
+        <item>Time</item>
+        <item>Title</item>
+    </string-array>
+    <string-array name="priority_levels">
+        <item>Optional</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Urgent</item>
+    </string-array>
+</resources>
